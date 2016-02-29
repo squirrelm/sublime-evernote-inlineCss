@@ -1,5 +1,6 @@
 # sublime-evernote-inlineCss
-Customer inline css for [sublime-evernote](https://github.com/bordaigorl/sublime-evernote)
+
+Customized inline css for [sublime-evernote](https://github.com/bordaigorl/sublime-evernote)
 
 ```
      "inline_css": {
@@ -23,4 +24,4 @@ Customer inline css for [sublime-evernote](https://github.com/bordaigorl/sublime
 
 # Usage
 
-In `Sublime Text 3`, go to `Preferences` > `Package Settings` > `Evernote` > `Settings - User`, replace `inline_css` segment with the above  style codes.
+In `Sublime Text 3`, go to `Preferences` > `Package Settings` > `Evernote` > `Settings - User`, replace `inline_css` segment with the above style codes.
